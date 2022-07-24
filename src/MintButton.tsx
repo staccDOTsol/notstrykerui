@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import styled from 'styled-components';
 import {useEffect, useState} from 'react';
 import Button from '@material-ui/core/Button';

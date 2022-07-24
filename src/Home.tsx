@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import {useCallback, useEffect, useMemo, useState} from "react";
 import styled from "styled-components";
 import confetti from "canvas-confetti";
